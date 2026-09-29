@@ -58,7 +58,7 @@
     "shape": {
       "radius": 0,
       "borderWidth": 1,
-      "shadows": "none"
+      "shadows": "soft"
     },
     "density": "airy",
     "contentWidth": "normal",
@@ -78,20 +78,20 @@
     },
     "thumb": {
       "fit": "contain",
-      "hover": "none"
+      "hover": "lift"
     },
     "gallery": {
       "layout": "masonry",
       "size": "medium",
-      "gutter": "normal",
+      "gutter": "loose",
       "caption": "below",
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
       "featureFirst": false,
-      "adaptiveSpans": false,
+      "adaptiveSpans": true,
       "click": "page",
-      "filters": false
+      "filters": true
     },
     "lightbox": {
       "transition": "fade",
