@@ -27,7 +27,7 @@
   "searchEnabled": false,
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
-  "analyticsProvider": "none",
+  "analyticsProvider": "goatcounter",
   "sellEnabled": false,
   "availableForWork": false,
   "newsletterEnabled": false,
@@ -124,5 +124,6 @@
       "projects": false,
       "stockists": false
     }
-  }
+  },
+  "analyticsId": "https://levigagliano.goatcounter.com/"
 }
