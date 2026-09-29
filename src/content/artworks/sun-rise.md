@@ -9,7 +9,7 @@ year: 2026
 medium: Acrylic on canvas
 dimensions: 60 x 80 cm
 status: available
-price: "2400"
+price: $2400
 alt: The sun, most powerful source of energy.
 order: 0
 featured: true
