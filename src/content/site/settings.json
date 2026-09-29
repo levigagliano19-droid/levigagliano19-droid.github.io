@@ -85,7 +85,7 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": false
     },
     "lightbox": {
@@ -99,7 +99,7 @@
     },
     "footer": {
       "socials": true,
-      "credit": true
+      "credit": false
     },
     "favicon": {
       "mode": "initials"
