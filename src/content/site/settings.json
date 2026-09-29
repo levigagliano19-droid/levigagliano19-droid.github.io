@@ -104,7 +104,8 @@
     },
     "footer": {
       "socials": true,
-      "credit": false
+      "credit": false,
+      "text": "interested in a piece? send a message on my Instagram"
     },
     "favicon": {
       "mode": "initials"
