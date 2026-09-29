@@ -7,15 +7,20 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
-  "watermark": false,
-  "watermarkText": "",
-  "protectFromAI": false,
+  "rightClickProtect": true,
+  "watermark": true,
+  "watermarkText": "Levi Gagliano",
+  "protectFromAI": true,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/levi.gagliano/"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
