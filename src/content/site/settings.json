@@ -34,38 +34,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "minimal",
+    "preset": "ocean",
     "color": {
-      "background": "#ffffff",
+      "background": "#f2f8fb",
       "surface": "#ffffff",
-      "text": "#1a1a1a",
-      "muted": "#8a8a8a",
-      "accent": "#1a1a1a",
-      "accent2": "#b0392f",
-      "border": "#e5e5e5",
-      "link": "#1a1a1a",
-      "heading": "#1a1a1a"
+      "text": "#14323f",
+      "muted": "#6a8a96",
+      "accent": "#70c322",
+      "accent2": "#0e5a7a",
+      "border": "#cfe2ea",
+      "link": "#1287a8",
+      "heading": "#14323f"
     },
     "type": {
-      "headingFont": "Inter",
+      "headingFont": "Outfit",
       "bodyFont": "Inter",
-      "headingWeight": 500,
+      "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 16,
+      "baseSize": 17,
       "headingTransform": "none",
-      "letterSpacing": -0.02
+      "letterSpacing": 0
     },
     "shape": {
-      "radius": 0,
+      "radius": 6,
       "borderWidth": 1,
-      "shadows": "soft"
+      "shadows": "none"
     },
-    "density": "airy",
+    "density": "normal",
     "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
-      "layout": "side"
+      "layout": "top"
     },
     "home": {
       "landing": "work"
@@ -77,25 +77,25 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "contain",
+      "fit": "cover",
       "hover": "lift"
     },
     "gallery": {
-      "layout": "masonry",
+      "layout": "grid",
       "size": "medium",
-      "gutter": "loose",
+      "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": false,
-      "adaptiveSpans": true,
-      "click": "page",
-      "filters": true
+      "featureFirst": true,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
     },
     "lightbox": {
       "transition": "fade",
-      "zoom": true
+      "zoom": false
     },
     "hero": {
       "enabled": false,
@@ -104,8 +104,7 @@
     },
     "footer": {
       "socials": true,
-      "credit": false,
-      "text": "interested in a piece? send a message on my Instagram"
+      "credit": true
     },
     "favicon": {
       "mode": "initials"
@@ -113,11 +112,11 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": false,
-      "press": false,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
-      "available": true,
+      "available": false,
       "presskit": false,
       "commissions": false,
       "shop": false,
