@@ -34,38 +34,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "ocean",
+    "preset": "marquee",
     "color": {
-      "background": "#f2f8fb",
+      "background": "#fffef9",
       "surface": "#ffffff",
-      "text": "#14323f",
-      "muted": "#6a8a96",
-      "accent": "#70c322",
-      "accent2": "#0e5a7a",
-      "border": "#cfe2ea",
-      "link": "#1287a8",
-      "heading": "#14323f"
+      "text": "#111014",
+      "muted": "#6b6a70",
+      "accent": "#a822c3",
+      "accent2": "#1f44ff",
+      "border": "#111014",
+      "link": "#ff2d55",
+      "heading": "#111014"
     },
     "type": {
-      "headingFont": "Outfit",
-      "bodyFont": "Inter",
-      "headingWeight": 600,
+      "headingFont": "Anton",
+      "bodyFont": "Work Sans",
+      "headingWeight": 400,
       "bodyWeight": 400,
-      "baseSize": 17,
-      "headingTransform": "none",
+      "baseSize": 18,
+      "headingTransform": "uppercase",
       "letterSpacing": 0
     },
     "shape": {
       "radius": 6,
-      "borderWidth": 1,
-      "shadows": "none"
+      "borderWidth": 2,
+      "shadows": "hard"
     },
     "density": "normal",
-    "contentWidth": "normal",
+    "contentWidth": "wide",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
-      "layout": "top"
+      "layout": "side"
     },
     "home": {
       "landing": "work"
@@ -78,29 +78,29 @@
     },
     "thumb": {
       "fit": "cover",
-      "hover": "lift"
+      "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
-      "size": "medium",
+      "layout": "cinematic",
+      "size": "large",
       "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
-      "captionDetail": "full",
+      "captionDetail": "minimal",
       "captionOverlay": "surface",
-      "featureFirst": true,
+      "featureFirst": false,
       "adaptiveSpans": false,
       "click": "lightbox",
       "filters": false
     },
     "lightbox": {
-      "transition": "fade",
+      "transition": "slide",
       "zoom": false
     },
     "hero": {
-      "enabled": false,
-      "align": "left",
-      "size": "small"
+      "enabled": true,
+      "align": "center",
+      "size": "large"
     },
     "footer": {
       "socials": true,
