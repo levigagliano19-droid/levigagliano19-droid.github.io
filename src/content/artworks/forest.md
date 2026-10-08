@@ -9,8 +9,7 @@ title: FOREST
 year: 2026
 medium: Acrylic on canvas
 dimensions: 50 x 90 cm
-status: available
-price: $1800
+status: inquire
 alt: Deep within a forest, nothing is truly still.
 order: 0
 featured: false
