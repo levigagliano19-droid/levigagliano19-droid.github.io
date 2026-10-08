@@ -7,8 +7,7 @@ title: CLOUDS
 year: 2026
 medium: Acrylic on canvas
 dimensions: 60 x 70 cm
-status: available
-price: $2100
+status: inquire
 alt: Clouds are constantly moving, forming, breaking apart, and becoming something new.
 order: 0
 featured: false
