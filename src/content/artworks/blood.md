@@ -8,8 +8,7 @@ title: BLOOD
 year: 2026
 medium: Acrylic on canvas
 dimensions: 50 x 70 cm
-status: available
-price: $1400
+status: inquire
 alt: A mass of red rises from the surface, rough, uneven, and almost alive.
 order: 0
 featured: false
